@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **Admin Site**
- 
- 🌱 I’m currently learning **Django, React Native**
+ 🌱 I’m currently learning **DevOps, Database Applicaitions**
  
  </div>
 
