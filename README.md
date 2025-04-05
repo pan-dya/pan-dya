@@ -20,15 +20,17 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pandya+Limawan!;" />
 </h1>
 
-<h3 align="center">An Undergradute Computer Science Student from Indonesia 🇮🇩</h3>
+<h3 align="center">An Undergradute Computer Science / Information Technology Student from Indonesia 🇮🇩</h3>
 
 <br/>
 
+<!--
 <div align="center">
  
- 🌱 I’m currently learning **DevOps, Database Applicaitions**
+ 🌱 I’m currently learning **DevOps, Database Applications**
  
  </div>
+ -->
 
  <div align="center"> 
   <a href="mailto:pandya.limawan@gmail.com">
@@ -43,6 +45,6 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,vscode,github,figma,aws,wordpress,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,mysql,django,php,postgresql" /><br>
 </div>
